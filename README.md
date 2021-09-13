@@ -1,10 +1,10 @@
 # RestServer-Facundo Lobo
 
-## Instalacion
+## Instalación
 
 Recuerden que deben de ejecutar ```npm install´´´ para reconstruir los módulos de Node.
 
-## Package utilizados
+## Package de Nodejs utilizados
 
 ```javascript
 npm express
