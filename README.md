@@ -2,10 +2,16 @@
 
 ## Instalacion
 
-Recuerden que deben de ejecutar ```npm install ´´´ para reconstruir los módulos de Node.
+Recuerden que deben de ejecutar ```npm install´´´ para reconstruir los módulos de Node.
 
-## Package utilizados -npm-
+## Package utilizados
 
-express
+```javascript
+npm express
 
+npm dotenv
+
+npm cors
+
+```
 
