@@ -7,7 +7,7 @@ Mira el resultado final en https://restserver-facundolobo.herokuapp.com
 
 Recuerden que deben de ejecutar ```npm install´´´ para reconstruir los módulos de Node.
 
-## Package de Nodejs utilizados
+## npm Nodejs utilizados
 
 ```javascript
 npm express
